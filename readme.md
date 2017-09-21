@@ -11,6 +11,12 @@
 
 ### Usage
 
+#### Installation
+
+```
+npm install --save rss
+``` 
+
 #### Create a new feed
 
 ```js
